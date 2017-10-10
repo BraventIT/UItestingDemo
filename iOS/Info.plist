@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>UItestCloudExample</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.bravent.UItestCloudExample</string>
+	<string>com.bravent.development</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
