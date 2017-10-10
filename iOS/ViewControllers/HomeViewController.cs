@@ -18,6 +18,9 @@ namespace UItestCloudExample.iOS
             btnEntrar.TintColor = UIColor.Black;
             this.View.BackgroundColor = UIColor.Blue;
 
+            txfUser.AccessibilityIdentifier = "txfUser";
+            txfPass.AccessibilityIdentifier = "txfPass";
+
             btnEntrar.TouchUpInside += delegate {
                 if (txfPass.Text == "123")
                 {
