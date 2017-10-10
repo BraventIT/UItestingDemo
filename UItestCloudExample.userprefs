@@ -9,17 +9,6 @@
       <File FileName="UItesting/Tests.cs" Line="91" Column="44" />
       <File FileName="iOS/Info.plist" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="UItestCloudExample" expanded="True" selected="True">
-            <Node name="UItesting" expanded="True">
-              <Node name="Test Apps" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
