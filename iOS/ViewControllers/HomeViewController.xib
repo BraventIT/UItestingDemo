@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="HomeViewController">
+            <connections>
+                <outlet property="btnEntrar" destination="vyz-qT-8PB" id="Z8y-pB-eRK"/>
+                <outlet property="lblPass" destination="O7c-zZ-9gu" id="PqF-5g-I5U"/>
+                <outlet property="lblTItle" destination="rPH-0m-iym" id="sgi-Zn-YSo"/>
+                <outlet property="lblUser" destination="1de-lh-ZOA" id="rTo-J0-ufr"/>
+                <outlet property="txfPass" destination="UAl-Sk-aJH" id="ZC0-HA-6ak"/>
+                <outlet property="txfUser" destination="zsV-pa-25x" id="LPi-u6-MKc"/>
+                <outlet property="view" destination="2" id="RRd-Eg-VrN"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="2">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UITesting Xamarin" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rPH-0m-iym">
+                    <rect key="frame" x="23" y="20" width="329" height="39.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="33"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Usuario" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1de-lh-ZOA">
+                    <rect key="frame" x="23" y="161" width="329" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Contraseña" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O7c-zZ-9gu">
+                    <rect key="frame" x="23" y="228" width="329" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="UAl-Sk-aJH">
+                    <rect key="frame" x="23" y="257" width="336" height="30"/>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vyz-qT-8PB">
+                    <rect key="frame" x="23" y="617" width="336" height="30"/>
+                    <state key="normal" title="Entrar"/>
+                </button>
+                <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="zsV-pa-25x">
+                    <rect key="frame" x="23" y="190" width="336" height="30"/>
+                    <nil key="textColor"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="rPH-0m-iym" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="23" id="2Jf-cT-0XI"/>
+                <constraint firstAttribute="trailing" secondItem="UAl-Sk-aJH" secondAttribute="trailing" constant="16" id="4hd-aD-dBI"/>
+                <constraint firstItem="rPH-0m-iym" firstAttribute="top" secondItem="2" secondAttribute="top" constant="20" id="CQm-4O-iiA"/>
+                <constraint firstItem="zsV-pa-25x" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="23" id="Egr-r8-aE9"/>
+                <constraint firstAttribute="trailing" secondItem="1de-lh-ZOA" secondAttribute="trailing" constant="23" id="Jau-79-NBb"/>
+                <constraint firstItem="UAl-Sk-aJH" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="23" id="RIt-J4-KdS"/>
+                <constraint firstItem="UAl-Sk-aJH" firstAttribute="top" secondItem="O7c-zZ-9gu" secondAttribute="bottom" constant="8" id="UT4-2X-xtH"/>
+                <constraint firstItem="zsV-pa-25x" firstAttribute="top" secondItem="1de-lh-ZOA" secondAttribute="bottom" constant="8" id="WDt-CG-Cg6"/>
+                <constraint firstAttribute="trailing" secondItem="vyz-qT-8PB" secondAttribute="trailing" constant="16" id="YHB-yX-OqW"/>
+                <constraint firstAttribute="trailing" secondItem="rPH-0m-iym" secondAttribute="trailing" constant="23" id="cFh-N9-350"/>
+                <constraint firstItem="vyz-qT-8PB" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="23" id="dau-sn-CQp"/>
+                <constraint firstAttribute="bottom" secondItem="vyz-qT-8PB" secondAttribute="bottom" constant="20" id="e6D-Cg-xtN"/>
+                <constraint firstAttribute="trailing" secondItem="O7c-zZ-9gu" secondAttribute="trailing" constant="23" id="emg-0C-9et"/>
+                <constraint firstAttribute="trailing" secondItem="zsV-pa-25x" secondAttribute="trailing" constant="16" id="kFQ-1b-5ff"/>
+                <constraint firstItem="O7c-zZ-9gu" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="23" id="m7m-Tc-r1d"/>
+                <constraint firstItem="O7c-zZ-9gu" firstAttribute="top" secondItem="zsV-pa-25x" secondAttribute="bottom" constant="8" id="qtL-XL-jky"/>
+                <constraint firstItem="1de-lh-ZOA" firstAttribute="leading" secondItem="2" secondAttribute="leading" constant="23" id="rBG-bt-pci"/>
+                <constraint firstItem="1de-lh-ZOA" firstAttribute="top" secondItem="rPH-0m-iym" secondAttribute="bottom" constant="101.5" id="zTN-Je-2fh"/>
+            </constraints>
+            <point key="canvasLocation" x="33.5" y="53.5"/>
+        </view>
+    </objects>
+</document>

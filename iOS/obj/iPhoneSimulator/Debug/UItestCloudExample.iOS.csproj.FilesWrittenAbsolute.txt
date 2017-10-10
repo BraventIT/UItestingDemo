@@ -1,0 +1,15 @@
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/UItestCloudExample.iOS.pdb
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/UItestCloudExample.iOS.exe
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/UItestCloudExample.iOS.exe
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/obj/iPhoneSimulator/Debug/UItestCloudExample.iOS.pdb
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/iOS/bin/iPhoneSimulator/Debug/Calabash.dll

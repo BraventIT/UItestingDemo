@@ -1,0 +1,7 @@
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/bin/Debug/UItesting.pdb
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/bin/Debug/UItesting.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/obj/Debug/UItesting.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/obj/Debug/UItesting.pdb
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/bin/Debug/nunit.framework.dll
+/Users/danielcardenapulido/Documents/Formaciones Bravent/UItesting/UItestCloudExample/UItesting/bin/Debug/Xamarin.UITest.dll

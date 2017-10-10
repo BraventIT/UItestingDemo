@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{ECF2866F-9E49-4028-B65C-98376EBB29A5}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.UItestCloudExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7446526A-0257-4BFE-9BF7-1E6BC4162E2E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewControllers/LastViewController.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="25" Column="13" />
+      <File FileName="iOS/ViewControllers/HomeViewController.cs" Line="18" Column="22" />
+      <File FileName="iOS/ViewControllers/MidleViewController.cs" Line="16" Column="57" />
+      <File FileName="iOS/ViewControllers/LastViewController.cs" Line="38" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UItestCloudExample" expanded="True">
+            <Node name="UItesting" expanded="True">
+              <Node name="UItesting" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
